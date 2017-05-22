@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Testdrive WordPress
  * Plugin URI: https://github.com/jessengatai/testdrive-wordpress
- * Description: A plugin that disables access to certain admin pages. Good for poopy.life, horrible for everything else
+ * Description: A plugin that disables access to certain admin capabilities. Good for poopy.life, horrible for everything else.
  * Version: 1.0
  * Author: Jesse Ngatai
  * Author URI: https://www.jessengatai.com
