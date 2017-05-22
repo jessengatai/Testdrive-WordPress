@@ -116,7 +116,7 @@ if ( ! class_exists( 'Testdrive_WordPress' ) ) {
 
 			// setup top bar links
 			if( $theme=='Crush' ) {
-				$buy 			= 'https://themeforest.net/item/crush-the-portfolio-theme/6613145?ref=jessengatai';
+				$buy 			= 'https://themeforest.net/item/crush-the-portfolio-theme/6613145?ref=jessengatai&license=regular&open_purchase_for_item_id=6613145&purchasable=source';
 				$support 	= 'https://themeforest.net/item/crush-the-portfolio-theme/6613145/comments?ref=jessengatai';
 				$docs 		= 'https://themes.jessengatai.com/crush/docs/';
 				$log			= 'https://themes.jessengatai.com/crush/changelog/';
