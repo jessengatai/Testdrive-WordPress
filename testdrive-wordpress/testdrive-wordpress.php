@@ -42,7 +42,8 @@ if ( ! class_exists( 'Testdrive_WordPress' ) ) {
 		 * @return void
 		 */
 		function plugin_activation() {
-			$this->disable(); // tun up the heat!
+			$this->disable_access(); // tun up the heat!
+			$this->disable_pages(); // tun up the heat!
 			$this->welcome(); // drinks on the house!
 			$this->links(); // if you need anything, anything at all...
 			flush_rewrite_rules();
